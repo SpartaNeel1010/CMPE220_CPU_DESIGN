@@ -213,7 +213,7 @@ CMPE220_project/
 
 - **[ISA Specification](docs/ISA_SPECIFICATION.md)** - Complete instruction set reference
 - **[CPU Architecture](docs/CPU_ARCHITECTURE.md)** - Detailed architecture documentation
-- **[Demo Script](docs/DEMO_SCRIPT.md)** - Walkthrough for Fibonacci program
+
 
 ## Features
 
@@ -295,43 +295,14 @@ Expected outputs:
 make clean
 ```
 
-## Troubleshooting
 
-### Build Issues
 
-- Ensure g++ is installed: `g++ --version`
-- Check C++11 support: The project requires `-std=c++11`
-- For macOS users: May need to install Xcode Command Line Tools
-
-### Runtime Issues
-
-- **Program doesn't halt**: Check for infinite loops in assembly
-- **Unexpected output**: Use debug mode (`-d` flag) to step through
-- **Segmentation fault**: Check memory addresses are within bounds
-
-## Future Enhancements
-
-Potential improvements:
-- Interrupt support
-- More memory-mapped devices
-- Pipelining simulation
-- More sophisticated assembler (macros, includes)
-- Disassembler
-- Interactive debugger with breakpoints
 
 ## References
 
 - [ISA Specification](docs/ISA_SPECIFICATION.md)
 - [CPU Architecture](docs/CPU_ARCHITECTURE.md)
-- [Demo Video Script](docs/DEMO_SCRIPT.md)
 
-## License
-
-Educational project for CMPE220 - Computer Architecture
-
-## Contact
-
-For questions or issues, contact team members through the course portal.
 
 ---
 

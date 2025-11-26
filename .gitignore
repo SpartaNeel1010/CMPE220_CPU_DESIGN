@@ -3,7 +3,6 @@ bin/
 *.o
 *.out
 *.exe
-
 # Assembled programs
 *.bin
 
