@@ -1,4 +1,4 @@
-# SC8 Software CPU Design
+# Software CPU Design
 
 A complete 8-bit CPU implementation in C++ including an emulator, assembler, and sample programs.
 
