@@ -1,0 +1,35 @@
+# Compiled binaries
+bin/
+*.o
+*.out
+*.exe
+
+# Assembled programs
+*.bin
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+tmp/
+temp/
+
