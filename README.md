@@ -2,6 +2,17 @@
 
 A complete 8-bit CPU implementation in C++ including an emulator, assembler, and sample programs.
 
+## Demo & Architecture
+
+### Video Demonstration
+
+
+[Watch Demo Video](report/demo.mp4)
+
+### CPU Architecture Diagram
+
+![CPU Architecture](report/CPU.png)
+
 ## Team Members
 
 - **Neel Asheshbhai Shah**
@@ -296,15 +307,9 @@ make clean
 ```
 
 
-
-
 ## References
 
 - [ISA Specification](docs/ISA_SPECIFICATION.md)
 - [CPU Architecture](docs/CPU_ARCHITECTURE.md)
 
-
----
-
-**Project completed as part of CMPE220 Computer Architecture Course**
 
