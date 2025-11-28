@@ -16,7 +16,7 @@ A complete 8-bit CPU implementation in C++ including an emulator, assembler, and
 ## Team Members
 
 - **Neel Asheshbhai Shah**
-- **Vedant Tushar Shah**
+- **Vedant Tushar Mehta**
 - **Aarav Pranav Shah**
 - **Harshavardhan Kuruvella**
 
